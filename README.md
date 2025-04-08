@@ -69,3 +69,7 @@ This project demonstrates the development of a fundamental synchronous RAM modul
 **Contributing:**
 
 Contributions are welcome! Please feel free to submit pull requests or open issues to improve this project.
+
+**output results**
+
+![Image](https://github.com/user-attachments/assets/c29337ef-3686-48fd-882d-5a4687ec884a)
